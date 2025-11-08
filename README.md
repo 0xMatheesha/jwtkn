@@ -154,4 +154,4 @@ const payload = decodePayload(token)
 
 
 ### 📄 License
-MIT — © 2025 [ItsMatheesha](https://github.com/ItsMatheesha)
+MIT — © 2025 [0xMatheesha](https://github.com/0xMatheesha)
