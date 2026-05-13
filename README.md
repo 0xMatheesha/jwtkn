@@ -13,8 +13,6 @@
 [![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/jwtkn)
 <!-- [![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@usr/jwt) -->
 
-[Live Demo](https://jwt-sb.vercel.app/)
-
 ## 🔻 Installation
 - **From NPM:**
 ```bash
@@ -154,4 +152,4 @@ const payload = decodePayload(token)
 
 
 ### 📄 License
-MIT — © 2025 [0xMatheesha](https://github.com/0xMatheesha)
+MIT — © 2025 [m4theesha](https://github.com/0xMatheesha)
